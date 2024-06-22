@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\bin\Debug\SharpTicTac.exe.config
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\bin\Debug\SharpTicTac.exe
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\bin\Debug\SharpTicTac.pdb
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\obj\Debug\SharpTicTac.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\obj\Debug\SharpTicTac.Form1.resources
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\obj\Debug\SharpTicTac.Properties.Resources.resources
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\obj\Debug\SharpTicTac.csproj.GenerateResource.cache
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\obj\Debug\SharpTicTac.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\obj\Debug\SharpTicTac.exe
+C:\Users\student\Desktop\SharpTicTac-master\SharpTicTac\obj\Debug\SharpTicTac.pdb
